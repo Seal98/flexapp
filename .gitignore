@@ -1,0 +1,15 @@
+*.class
+*.iml
+.iml
+.idea
+.classpath
+.project
+.settings/
+.factorypath
+.tern-project
+# Package Files #
+*.jar
+*.war
+*.ear
+.metadata
+.metadata/
