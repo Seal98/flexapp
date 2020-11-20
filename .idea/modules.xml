@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Flexapp.iml" filepath="$PROJECT_DIR$/Flexapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flexapp.iml" filepath="$PROJECT_DIR$/.idea/flexapp.iml" />
     </modules>
   </component>
 </project>
